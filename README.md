@@ -5,8 +5,7 @@ GitHub 주소 : https://github.com/kookmin-sw/capstone-2022-22
 ## 1. 프로젝트 소개
 
 ---
-
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/8d1fc563-efa2-4aae-84b7-11cfcebbd3b6/Untitled.png)
+<img src='https://user-images.githubusercontent.com/55051191/160963396-789d1ffb-6cf0-44e4-aaee-78f53c08a051.png' width='400px'/>
 
 ### Abstract
 
@@ -26,7 +25,8 @@ GitHub 주소 : https://github.com/kookmin-sw/capstone-2022-22
 
 ---
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/69af8a71-dc98-4091-89ef-9135a593417c/Untitled.png)
+
+![image](https://user-images.githubusercontent.com/55051191/160963475-ecbcf50f-b7d8-4afd-8b55-5814d9a82cc4.png)
 
 | 메타버스 시스템 | Gdevelop을 이용한 메타버스 시스템 |
 | --- | --- |
