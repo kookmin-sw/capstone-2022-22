@@ -4,7 +4,7 @@ GitHub 주소 : https://github.com/kookmin-sw/capstone-2022-22
 
 ## 1. 프로젝트 소개
 
----
+
 <img src='https://user-images.githubusercontent.com/55051191/160963396-789d1ffb-6cf0-44e4-aaee-78f53c08a051.png' width='400px'/>
 
 ### Abstract
@@ -23,7 +23,7 @@ GitHub 주소 : https://github.com/kookmin-sw/capstone-2022-22
 
 ## 2. 주요 기능
 
----
+
 
 
 ![image](https://user-images.githubusercontent.com/55051191/160963475-ecbcf50f-b7d8-4afd-8b55-5814d9a82cc4.png)
@@ -36,13 +36,12 @@ GitHub 주소 : https://github.com/kookmin-sw/capstone-2022-22
 
 ## 3. 소개영상
 
----
+
 
 - 업로드 예정
 
 ## 4. 팀소개
 
----
 
 ```python
 ****1622 양진우
@@ -64,7 +63,7 @@ GitHub : https://github.com/kimchanmiii
 
 ## 5. 사용법
 
----
+
 
 - 업로드 예정
 
