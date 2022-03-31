@@ -25,10 +25,7 @@
 
 ## 2. 주요 기능
 
-
-
-
-![image](https://user-images.githubusercontent.com/55051191/160963475-ecbcf50f-b7d8-4afd-8b55-5814d9a82cc4.png)
+![image](https://user-images.githubusercontent.com/54922827/160973387-bb7413f3-c82d-40a9-b995-63952f80ca95.png)
 
 | 기능 | 세부 개발 사항 |
 | --- | --- |
@@ -45,11 +42,10 @@
 
 ## 4. 팀소개
 
-
 ```python
-****1622 양진우
-Role : BackEnd & WebRTC & Server
-GitHub : https://github.com/Pororo-droid
+****1574 김찬미
+Role : FrontEnd & Gdevelop
+GitHub : https://github.com/kimchanmiii
 ```
 
 ```python
@@ -59,9 +55,9 @@ GitHub : https://github.com/Baek-sohyeon
 ```
 
 ```python
-****1574 김찬미
-Role : FrontEnd & Gdevelop
-GitHub : https://github.com/kimchanmiii
+****1622 양진우
+Role : BackEnd & WebRTC & Server
+GitHub : https://github.com/Pororo-droid
 ```
 
 ## 5. 사용법
