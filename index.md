@@ -30,8 +30,9 @@
 
 ![image](https://user-images.githubusercontent.com/55051191/160963475-ecbcf50f-b7d8-4afd-8b55-5814d9a82cc4.png)
 
-| 메타버스 시스템 | Gdevelop을 이용한 메타버스 시스템 |
+| 기능 | 세부 개발 사항 |
 | --- | --- |
+| 메타버스 시스템 | Gdevelop을 이용한 메타버스 시스템 |
 | 면접 시스템 | WebRTC와 SFU 방식을 이용한 면접 시스템 |
 | 웹 페이지 (FrontEnd) | React를 이용한 웹페이지 디자인 및 Frontend |
 | 서버 (WebRTC, API) | WebRTC 서버와 API 서버 |
