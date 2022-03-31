@@ -42,8 +42,8 @@
 
 ## 4. 팀소개
 
-|:---: | :---: | :---: |
 | 양진우 | 김찬미 | 백소현 |
+|:---:|:---:|:---:|
 |![image](https://user-images.githubusercontent.com/54922827/160975529-ff0177f2-dcaf-4806-8f25-a9babcafc867.jpeg) | ![image](https://user-images.githubusercontent.com/54922827/160975609-be02c624-0b6e-4e9e-9a98-dcc778e0c0c2.JPG) | ![image](https://user-images.githubusercontent.com/54922827/160975636-67b585e5-0edf-4dcb-a04f-17eef2c62d3a.jpeg) |
 | 🧑🏻‍💻 학번: xxxx1622 | 👩🏻‍💻 학번: xxxx1574 | 👩🏻‍💻 학번: xxxx1603 |
 | 📌 Role: 팀장, BackEnd, WebRTC, Server | 📌 Role: FrontEnd, Gdevelop, Design | 📌 Role: FrontEnd, Gdevelop, Design |
