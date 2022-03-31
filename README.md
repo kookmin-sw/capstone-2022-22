@@ -1,77 +1,75 @@
-[![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-f059dc9a6f8d3a56e377f745f24479a46679e63a5d9fe6f495e02850cd0d8118.svg)](https://classroom.github.com/online_ide?assignment_repo_id=7011375&assignment_repo_type=AssignmentRepo)
-# Welcome to GitHub
+GitHub 주소 : https://github.com/kookmin-sw/capstone-2022-22
 
-캡스톤 팀 생성을 축하합니다.
+개발 중인 GitHub 주소 : [https://github.com/Captsone-Kiwi](https://github.com/Captsone-Kiwi)
 
-## 팀소개 및 페이지를 꾸며주세요.
+## 1. 프로젝트 소개
 
-- 프로젝트 소개
-  - 프로젝트 설치방법 및 데모, 사용방법, 프리뷰등을 readme.md에 작성.
-  - Api나 사용방법등 내용이 많을경우 wiki에 꾸미고 링크 추가.
+---
 
-- 팀페이지 꾸미기
-  - 프로젝트 소개 및 팀원 소개
-  - index.md 예시보고 수정.
+![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/8d1fc563-efa2-4aae-84b7-11cfcebbd3b6/Untitled.png)
 
-- GitHub Pages 리파지토리 Settings > Options > GitHub Pages 
-  - Source를 marster branch
-  - Theme Chooser에서 태마선택
-  - 수정후 팀페이지 확인하여 점검.
+### Abstract
 
-**팀페이지 주소** -> https://kookmin-sw.github.io/ '{{자신의 리파지토리 아이디}}'
+> 코로나 19가 장기화됨에 따라 채용 트렌드가 바뀌고 있다. 많은 기업들은 코로나 19 발생 이후로 채용 과정에 비대면 방식을 활용하고 있다. '비대면 채용전형 도입현황'을 조사한 결과 응답 회사의 67.1%가 '비대면 채용전형을 운영하고 있다'고 밝혔다.1 지난해 9월 고용노동부가 발표한 ‘2020 회계연도 기업체노동비용조사’에서도 전년 대비 상용근로자 1인당 월평균 교육훈련비는 27.9%, 채용 관련 비용은 3.6% 감소한 것으로 조사되었다. 비대면 면접·시험·교육이 진행되면서 채용 및 교육시설 대관비 채용 관련 비용이 줄어든 이유로는 ‘비대면 면접·시험·교육이 진행되면서 채용 및 교육시설 대관비·인건비 절감(39.7%)’ 가 가장 높게 나타났다.2 반면 비대면 면접이 진행되면서 취업준비생의 부담은 늘어났다고 한다. 잡코리아에 따르면 취준생 중 상당수는 화상면접 준비를 위해 정보기술(IT) 기기 등 장비를 구입한 것으로 나타났다. 장비 중에는 웹캠을 구입했다는 응답자가 53.8%(복수선택)로 가장 많았다. 이어 노트북(45.4%), 데스크톱PC(30.3%), 조명기구(21.8%), 가림막(16%) 등을 구매했다. 화상면접 장소로 스터디카페나 전문 스튜디오를 찾는 경우도 있었다.3 우리는 기업에게 비대면 채용의 이점을 가져다주면서 기기의 제약이 없어 개인에게는 비용 부담을 줄일 수 있게 하고자한다. 이에 메타버스를 활용한 웹 면접 시스템 KIWI (Kookmin Inside Web Interview)를 제안한다.
+> 
 
-**예시)** 2020년 0조  https://kookmin-sw.github.io/capstone-2020-0/
+> As the COVID-19 pandemic continues, recruitment trends are changing. Many companies have been using a non-face-to-face method in their hiring process since the outbreak of COVID-19. As a result of a survey on 'non-face-to-face recruitment adoption status', 67.1% of the responding companies said that 'non-face-to-face recruitment is running'. It was found that the average monthly education and training expenses per regular worker decreased by 27.9% and recruitment-related expenses by 3.6%. As the non-face-to-face interview/test/education proceeded, the most likely reason for the reduction in hiring and training facility rental costs was 'reduction of hiring and training facility rental/labor costs (39.7%) as non-face-to-face interviews, exams and training were conducted'. appeared high. On the other hand, as the non-face-to-face interview progressed, the burden of job seekers increased. According to Job Korea, it was found that many of the trainees purchased information technology (IT) equipment and other equipment to prepare for a video interview. Among the equipment, the majority of respondents who purchased a webcam were 53.8% (multiple selection). Next, they purchased laptops (45.4%), desktop PCs (30.3%), lighting fixtures (21.8%), and screens (16%). In some cases, study cafes or professional studios were found as places for video interviews.3 We want to bring the advantages of non-face-to-face recruitment to companies while reducing the cost burden on individuals because there are no device restrictions. In this regard, KIWI (Kookmin Inside Web Interview), a web interview system using metaverse, is proposed.
+> 
 
+1 "코로나19 시대 채용 문화..."기업 67%, 비대면으로 직원 뽑는다", 연합뉴스, 2021년08월31일,2022
+년03월31일 접속, https://www.yna.co.kr/view/AKR20210831044600003
+2 "코로나 이후 채용에 투입하는 비용 감소", 경북일보, 2022년 03월 10일, 2022년 03월 31일 접속, [https://www.kyongbuk.co.kr/news/articleView.html?idxno=2096197](https://www.kyongbuk.co.kr/news/articleView.html?idxno=2096197)
 
-## 내용에 아래와 같은 내용들을 추가하세요.
+3 ”온라인 채용 역설…취준생 면접비 48만원, 2배로 뛰었다 왜”, 중앙일보, 2021년09월12일,2022년 03월 31일 접속,  ****[https://www.joongang.co.kr/article/25006380#home](https://www.joongang.co.kr/article/25006380#home)”
 
-### 1. 프로잭트 소개
+## 2. 주요 기능
 
-프로젝트
+---
 
-### 2. 소개 영상
+![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/69af8a71-dc98-4091-89ef-9135a593417c/Untitled.png)
 
-프로젝트 소개하는 영상을 추가하세요
+| 메타버스 시스템 | Gdevelop을 이용한 메타버스 시스템 |
+| --- | --- |
+| 면접 시스템 | WebRTC와 SFU 방식을 이용한 면접 시스템 |
+| 웹 페이지 (FrontEnd) | React를 이용한 웹페이지 디자인 및 Frontend |
+| 서버 (WebRTC, API) | WebRTC 서버와 API 서버 |
 
-### 3. 팀 소개
+## 3. 소개영상
 
-팀을 소개하세요.
+---
 
-팀원정보 및 담당이나 사진 및 SNS를 이용하여 소개하세요.
+- 업로드 예정
 
-### 4. 사용법
+## 4. 팀소개
 
-소스코드제출시 설치법이나 사용법을 작성하세요.
+---
 
-### 5. 기타
-
-추가적인 내용은 자유롭게 작성하세요.
-
-
-## Markdown을 사용하여 내용꾸미기
-
-Markdown은 작문을 스타일링하기위한 가볍고 사용하기 쉬운 구문입니다. 여기에는 다음을위한 규칙이 포함됩니다.
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+```python
+****1622 양진우
+Role : BackEnd & WebRTC & Server
+GitHub : https://github.com/Pororo-droid
 ```
 
-자세한 내용은 [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+```python
+****1603 백소현
+Role : FrontEnd & Gdevelop & Design
+GitHub : https://github.com/Baek-sohyeon
+```
 
-### Support or Contact
+```python
+****1574 김찬미
+Role : FrontEnd & Gdevelop
+GitHub : https://github.com/kimchanmiii
+```
 
-readme 파일 생성에 추가적인 도움이 필요하면 [도움말](https://help.github.com/articles/about-readmes/) 이나 [contact support](https://github.com/contact) 을 이용하세요.
+## 5. 사용법
+
+---
+
+- 업로드 예정
+
+## 6. 기타
+
+---
+
+- 업로드 예정
