@@ -1,6 +1,7 @@
-GitHub 주소 : https://github.com/kookmin-sw/capstone-2022-22
+- GitHub 주소 : https://github.com/kookmin-sw/capstone-2022-22
 
-개발 중인 GitHub 주소 : [https://github.com/Captsone-Kiwi](https://github.com/Captsone-Kiwi)
+- 개발 중인 GitHub 주소 : [https://github.com/Captsone-Kiwi](https://github.com/Captsone-Kiwi)
+---
 
 ## 1. 프로젝트 소개
 
@@ -17,9 +18,10 @@ GitHub 주소 : https://github.com/kookmin-sw/capstone-2022-22
 
 1 "코로나19 시대 채용 문화..."기업 67%, 비대면으로 직원 뽑는다", 연합뉴스, 2021년08월31일,2022
 년03월31일 접속, https://www.yna.co.kr/view/AKR20210831044600003
-2 "코로나 이후 채용에 투입하는 비용 감소", 경북일보, 2022년 03월 10일, 2022년 03월 31일 접속, [https://www.kyongbuk.co.kr/news/articleView.html?idxno=2096197](https://www.kyongbuk.co.kr/news/articleView.html?idxno=2096197)
 
-3 ”온라인 채용 역설…취준생 면접비 48만원, 2배로 뛰었다 왜”, 중앙일보, 2021년09월12일,2022년 03월 31일 접속,  ****[https://www.joongang.co.kr/article/25006380#home](https://www.joongang.co.kr/article/25006380#home)”
+2 "코로나 이후 채용에 투입하는 비용 감소", 경북일보, 2022년03월10일, 2022년03월31일 접속, [https://www.kyongbuk.co.kr/news/articleView.html?idxno=2096197](https://www.kyongbuk.co.kr/news/articleView.html?idxno=2096197)
+
+3 ”온라인 채용 역설…취준생 면접비 48만원, 2배로 뛰었다 왜”, 중앙일보, 2021년09월12일,2022년03월31일 접속,  ****[https://www.joongang.co.kr/article/25006380#home](https://www.joongang.co.kr/article/25006380#home)”
 
 ## 2. 주요 기능
 
@@ -41,7 +43,6 @@ GitHub 주소 : https://github.com/kookmin-sw/capstone-2022-22
 - 업로드 예정
 
 ## 4. 팀소개
-
 
 
 ```python
@@ -69,7 +70,6 @@ GitHub : https://github.com/kimchanmiii
 - 업로드 예정
 
 ## 6. 기타
-
 
 
 - 업로드 예정
