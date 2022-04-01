@@ -36,10 +36,8 @@
 | 서버 (WebRTC, API) | WebRTC 서버와 API 서버 |
 
 ## 3. 소개영상
+[![Video Label](https://user-images.githubusercontent.com/55051191/161211391-36166336-14a2-494f-8696-ad3257c55244.png)](https://www.youtube.com/watch?v=1dYAA48PsrU)
 
-
-
-- 업로드 예정
 
 ## 4. 팀소개
 
