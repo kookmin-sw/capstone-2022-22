@@ -41,23 +41,12 @@
 
 ## 4. 팀소개
 
-```python
-****1574 김찬미
-Role : FrontEnd & Gdevelop
-GitHub : https://github.com/kimchanmiii
-```
-
-```python
-****1603 백소현
-Role : FrontEnd & Gdevelop & Design
-GitHub : https://github.com/Baek-sohyeon
-```
-
-```python
-****1622 양진우
-Role : BackEnd & WebRTC & Server
-GitHub : https://github.com/Pororo-droid
-```
+| 양진우 | 김찬미 | 백소현 |
+|:---:|:---:|:---:|
+|![image](https://user-images.githubusercontent.com/54922827/160975529-ff0177f2-dcaf-4806-8f25-a9babcafc867.jpeg) | ![image](https://user-images.githubusercontent.com/54922827/160975938-fc089245-419b-4ecf-86d4-81351c27a83d.jpeg) | ![image](https://user-images.githubusercontent.com/54922827/160975636-67b585e5-0edf-4dcb-a04f-17eef2c62d3a.jpeg) |
+| 🧑🏻‍💻 학번: xxxx1622 | 👩🏻‍💻 학번: xxxx1574 | 👩🏻‍💻 학번: xxxx1603 |
+| 📌 Role: 팀장, BackEnd, WebRTC, Server | 📌 Role: FrontEnd, Gdevelop, Design | 📌 Role: FrontEnd, Gdevelop, Design |
+| 💻 GitHub: @Proro-droid | 💻 GitHub: @kimchanmiii | 💻 GitHub: @Baek-sohyeon |
 
 ## 5. 사용법
 
