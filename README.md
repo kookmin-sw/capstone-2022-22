@@ -46,13 +46,64 @@
 |![image](https://user-images.githubusercontent.com/54922827/160975529-ff0177f2-dcaf-4806-8f25-a9babcafc867.jpeg) | ![image](https://user-images.githubusercontent.com/54922827/160975938-fc089245-419b-4ecf-86d4-81351c27a83d.jpeg) | ![image](https://user-images.githubusercontent.com/54922827/160975636-67b585e5-0edf-4dcb-a04f-17eef2c62d3a.jpeg) |
 | 🧑🏻‍💻 학번: xxxx1622 | 👩🏻‍💻 학번: xxxx1574 | 👩🏻‍💻 학번: xxxx1603 |
 | 📌 Role: 팀장, BackEnd, WebRTC, Server | 📌 Role: FrontEnd, Gdevelop, Design | 📌 Role: FrontEnd, Gdevelop, Design |
-| 💻 GitHub: @Proro-droid | 💻 GitHub: @kimchanmiii | 💻 GitHub: @Baek-sohyeon |
+| 💻 GitHub: @Pororo-droid | 💻 GitHub: @kimchanmiii | 💻 GitHub: @Baek-sohyeon |
 
-## 5. 사용법
+## 5. 사용 및 실행법 
 
+##API 서버
+##프로그램 요구사항
 
+mysql<br>
+mvn
 
-- 업로드 예정
+##사전 작업 (필수)
+## 수정 파일
+API-Server/src/main/resources/application.properties<br>
+### mysql 주소 설정
+`spring.datasource.url=jdbc:mysql://[mySqlDatabseUrl]:[mySqlDatabasePort]/[DB_NAME]?sessionVariables=sql_mode='NO_ENGINE_SUBSTITUTION'&jdbcCompliantTruncation=false` <br>
+[mySqlDatabseUrl]  : mysql database url (local : localhost) <br>
+[mySqlDatabasePort] : mysql database port (default 3306) <br>
+[DB\_NAME] : DB name (없으면 create database [database name]) <br>
+
+### mysql 유저 / 비밀번호 설정
+`spring.datasource.username=[DB_USERNAME]` <br>
+`spring.datasource.password=[DB_PASSWORD]` <br>
+[DB\_USERNAME] : DB Username (default : root) <br>
+[DB\_PASSWORD] : DB Password
+
+### mysql table 자동생성 설정
+실행시 테이블 생성 -> 종료시 테이블 삭제 <br>
+`spring.jpa.hibernate.ddl-auto=create-drop` <br>
+
+실행시 테이블 생성 -> 종료시 테이블 유지 그러나 중복되면 삭제후 재생성<br>
+`spring.jpa.hibernate.ddl-auto=create`
+
+##수정 파일
+API-Server/src/main/java/com.kiwi.ApiServer/DAO/SQLDAO.java<br>
+
+```java
+    private static final String URL = "JDBC:MYSQL://[mySqlDatabaseUrl]:[mySqlDatabasePort]/[DB_NAME]?useSSL=false&serverTimezone=Asia/Seoul";
+    private static final String USER = "[DB_USERNAME]";
+    private static final String PW = "[DB_PASSWORD]";
+
+```
+[mySqlDatabseUrl]  : mysql database url (local : localhost) <br>
+[mySqlDatabasePort] : mysql database port (default 3306) <br>
+[DB\_NAME] : DB name (없으면 create database [database name]) <br>
+[DB\_USERNAME] : DB Username (default : root) <br>
+[DB\_PASSWORD] : DB Password
+
+##MySQL 테이블 생성
+```mysql
+CREATE TABLE interview_participant(
+    interview_id int,
+    player_id int
+);
+```
+
+##실행
+`mvn spring-boot:run``
+
 
 ## 6. 기타
 
