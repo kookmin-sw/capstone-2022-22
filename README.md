@@ -50,13 +50,13 @@
 
 ## 5. 사용 및 실행법 
 
-##API 서버
+##API 서버 <br>
 ##프로그램 요구사항
 
 mysql<br>
 mvn
 
-##사전 작업 (필수)
+##사전 작업 (필수)<br>
 ## 수정 파일
 API-Server/src/main/resources/application.properties<br>
 ### mysql 주소 설정
@@ -78,7 +78,7 @@ API-Server/src/main/resources/application.properties<br>
 실행시 테이블 생성 -> 종료시 테이블 유지 그러나 중복되면 삭제후 재생성<br>
 `spring.jpa.hibernate.ddl-auto=create`
 
-##수정 파일
+##수정 파일<br>
 API-Server/src/main/java/com.kiwi.ApiServer/DAO/SQLDAO.java<br>
 
 ```java
@@ -93,7 +93,9 @@ API-Server/src/main/java/com.kiwi.ApiServer/DAO/SQLDAO.java<br>
 [DB\_USERNAME] : DB Username (default : root) <br>
 [DB\_PASSWORD] : DB Password
 
-##MySQL 테이블 생성
+
+##MySQL 테이블 생성<br>
+
 ```mysql
 CREATE TABLE interview_participant(
     interview_id int,
@@ -101,7 +103,7 @@ CREATE TABLE interview_participant(
 );
 ```
 
-##실행
+##실행<br>
 `mvn spring-boot:run``
 
 
