@@ -2,7 +2,7 @@
 
 ## 1. 프로젝트 소개
 
-### 최종 소개 영상 (+시연 영상)
+### 최종 소개 영상 💚 (+시연 영상)
 
 [![썸네일](https://user-images.githubusercontent.com/54922827/170538229-4bf5af69-96c4-40d5-81db-d50c6fcaf548.png)](https://www.youtube.com/watch?v=C13J8veVEpY&ab_channel=%E2%80%8D%EB%B0%B1%EC%86%8C%ED%98%84%28%ED%95%99%EB%B6%80%EC%83%9D-%EC%86%8C%ED%94%84%ED%8A%B8%EC%9B%A8%EC%96%B4%EC%A0%84%EA%B3%B5%29)
 
@@ -18,18 +18,18 @@
 
 > Many companies have been using untact methods in the hiring process since the outbreak of COVID-19. However, while general video conferencing systems continue to be supplied, there is no specialized system for interviews. We want to lower Zoom Fatigue, also called online video conferencing fatigue syndrome, through characters that replace me in a high-freedom metaverse environment as providing companies with the system that optimized for untact interviews. Accordingly, we propose a web interview system KIWI (Kookmin Inside Web Interview) using metaverse.
 
-## 2. 주요 기능
+## 2. 주요 기능 🛠
 
 |                                                   1. 화상 시스템                                                   |                                                    2. 메타버스                                                     |                                              3. 면접 예약 & 면접 관리                                              |                                           4. 자유도 높은 평가항목 및 면접 결과 추출                                           |
 | :----------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------: |
 | ![그림1](https://user-images.githubusercontent.com/54922827/170542576-7ed15cf7-edb8-4e73-a4ad-24e1e0b27c50.png) | ![그림2](https://user-images.githubusercontent.com/54922827/170542613-e755e490-8e98-412f-9ec0-56f2a8f6a5c1.png) | ![그림3](https://user-images.githubusercontent.com/54922827/170542643-111cd43c-9345-4465-bb9e-48626ce44114.png) |      ![그림4](https://user-images.githubusercontent.com/54922827/170542691-6e659203-69d9-4850-a792-c57a644dbd60.png)       |
 |   사용자 입장 </br> _ 별도의 설치가 필요없는 화상 시스템 </br> 서비스 측면 </br> _ SFU를 통한 Client 부하도 감소   |                                             - 웹에서 동작하는 메타버스                                             |            - 세세하고 체계적인 면접 예약 시스템 </br> - 간단한 업로드와 면접 중에도 확인 가능한 이력서             | - 커스터마이징 가능한 평가항목 시스템 </br> 메타버스 시스템 내에서 확인 및 점수 입력 가능, 이 때 입력한 점수 결과는 추출 가능 |
 
-## 3. 기대 효과
+## 3. 기대 효과 📍
 
 <img width="818" alt="스크린샷 2022-05-27 오전 2 46 21" src="https://user-images.githubusercontent.com/54922827/170545677-e6485182-7b78-44e9-b145-6581c467062c.png">
 
-## 4. 프로젝트 구조 및 흐름
+## 4. 프로젝트 구조 및 흐름 💻
 
 ### KIWI 아키텍쳐
 
@@ -39,7 +39,7 @@
 
 <img width="852" alt="그림12" src="https://user-images.githubusercontent.com/54922827/170546194-234e43ca-d9de-4ce3-8057-cf6e76b897cc.png">
 
-## 5. 팀소개
+## 5. 팀소개 🧚🏼‍♀️
 
 ### GitHub 페이지
 
@@ -53,7 +53,7 @@
 |                                      📌 Role: 팀장, BackEnd, WebRTC, Server                                      |                                       📌 Role: FrontEnd, Gdevelop, Design                                        |                                       📌 Role: FrontEnd, Gdevelop, Design                                        |
 |                                             💻 GitHub: @Pororo-droid                                             |                                             💻 GitHub: @kimchanmiii                                              |                                             💻 GitHub: @Baek-sohyeon                                             |
 
-## 5. 사용법
+## 5. 사용법 📒
 
 ### ✔️ 매뉴얼
 
