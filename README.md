@@ -1,113 +1,66 @@
-- GitHub 주소 : https://github.com/kookmin-sw/capstone-2022-22
-
-- 개발 중인 GitHub 주소 : [https://github.com/Captsone-Kiwi](https://github.com/Captsone-Kiwi)
+<img src='https://user-images.githubusercontent.com/55051191/160963396-789d1ffb-6cf0-44e4-aaee-78f53c08a051.png' width='400px'/>
 
 ## 1. 프로젝트 소개
 
+### 최종 소개 영상 💚 (+시연 영상)
 
-<img src='https://user-images.githubusercontent.com/55051191/160963396-789d1ffb-6cf0-44e4-aaee-78f53c08a051.png' width='400px'/>
+[![썸네일](https://user-images.githubusercontent.com/54922827/170538229-4bf5af69-96c4-40d5-81db-d50c6fcaf548.png)](https://www.youtube.com/watch?v=C13J8veVEpY&ab_channel=%E2%80%8D%EB%B0%B1%EC%86%8C%ED%98%84%28%ED%95%99%EB%B6%80%EC%83%9D-%EC%86%8C%ED%94%84%ED%8A%B8%EC%9B%A8%EC%96%B4%EC%A0%84%EA%B3%B5%29)
+
+### 중간 소개 영상
+
+[![Video Label](https://user-images.githubusercontent.com/55051191/161211391-36166336-14a2-494f-8696-ad3257c55244.png)](https://www.youtube.com/watch?v=1dYAA48PsrU)
 
 ### Abstract
 
-> 코로나 19가 장기화됨에 따라 채용 트렌드가 바뀌고 있다. 많은 기업들은 코로나 19 발생 이후로 채용 과정에 비대면 방식을 활용하고 있다. '비대면 채용전형 도입현황'을 조사한 결과 응답 회사의 67.1%가 '비대면 채용전형을 운영하고 있다'고 밝혔다.1 지난해 9월 고용노동부가 발표한 ‘2020 회계연도 기업체노동비용조사’에서도 전년 대비 상용근로자 1인당 월평균 교육훈련비는 27.9%, 채용 관련 비용은 3.6% 감소한 것으로 조사되었다. 비대면 면접·시험·교육이 진행되면서 채용 및 교육시설 대관비 채용 관련 비용이 줄어든 이유로는 ‘비대면 면접·시험·교육이 진행되면서 채용 및 교육시설 대관비·인건비 절감(39.7%)’ 가 가장 높게 나타났다.2 반면 비대면 면접이 진행되면서 취업준비생의 부담은 늘어났다고 한다. 잡코리아에 따르면 취준생 중 상당수는 화상면접 준비를 위해 정보기술(IT) 기기 등 장비를 구입한 것으로 나타났다. 장비 중에는 웹캠을 구입했다는 응답자가 53.8%(복수선택)로 가장 많았다. 이어 노트북(45.4%), 데스크톱PC(30.3%), 조명기구(21.8%), 가림막(16%) 등을 구매했다. 화상면접 장소로 스터디카페나 전문 스튜디오를 찾는 경우도 있었다.3 우리는 기업에게 비대면 채용의 이점을 가져다주면서 기기의 제약이 없어 개인에게는 비용 부담을 줄일 수 있게 하고자한다. 이에 메타버스를 활용한 웹 면접 시스템 KIWI (Kookmin Inside Web Interview)를 제안한다.
-> 
+> 많은 기업들은 코로나 19 발생 이후로 채용 과정에 비대면 방식을 활용하고 있다. 이로 인해 일반적인 화상 회의 시스템은 계속해서 공급되는 반면, 면접에 특화되어 있는 시스템은 존재하지 않는다는 것을 확인하였다. 우리는 기업에게 비대면 면접에 최적화 된 시스템을 제공하면서 자유도 높은 메타버스 환경에서 나를 대신하는 캐릭터를 통해, 일명 온라인 화상회의 피로 증후군인 ‘줌 피로'(Zoom Fatigue)를 낮추고자 한다. 이에 우리는 메타버스를 활용한 웹 면접 시스템 KIWI (Kookmin Inside Web Interview)를 제안한다.
 
-> As the COVID-19 pandemic continues, recruitment trends are changing. Many companies have been using a non-face-to-face method in their hiring process since the outbreak of COVID-19. As a result of a survey on 'non-face-to-face recruitment adoption status', 67.1% of the responding companies said that 'non-face-to-face recruitment is running'. It was found that the average monthly education and training expenses per regular worker decreased by 27.9% and recruitment-related expenses by 3.6%. As the non-face-to-face interview/test/education proceeded, the most likely reason for the reduction in hiring and training facility rental costs was 'reduction of hiring and training facility rental/labor costs (39.7%) as non-face-to-face interviews, exams and training were conducted'. appeared high. On the other hand, as the non-face-to-face interview progressed, the burden of job seekers increased. According to Job Korea, it was found that many of the trainees purchased information technology (IT) equipment and other equipment to prepare for a video interview. Among the equipment, the majority of respondents who purchased a webcam were 53.8% (multiple selection). Next, they purchased laptops (45.4%), desktop PCs (30.3%), lighting fixtures (21.8%), and screens (16%). In some cases, study cafes or professional studios were found as places for video interviews.3 We want to bring the advantages of non-face-to-face recruitment to companies while reducing the cost burden on individuals because there are no device restrictions. In this regard, KIWI (Kookmin Inside Web Interview), a web interview system using metaverse, is proposed.
-> 
+>
 
-1 "코로나19 시대 채용 문화..."기업 67%, 비대면으로 직원 뽑는다", 연합뉴스, 2021년08월31일,2022
-년03월31일 접속, https://www.yna.co.kr/view/AKR20210831044600003
+> Many companies have been using untact methods in the hiring process since the outbreak of COVID-19. However, while general video conferencing systems continue to be supplied, there is no specialized system for interviews. We want to lower Zoom Fatigue, also called online video conferencing fatigue syndrome, through characters that replace me in a high-freedom metaverse environment as providing companies with the system that optimized for untact interviews. Accordingly, we propose a web interview system KIWI (Kookmin Inside Web Interview) using metaverse.
 
-2 "코로나 이후 채용에 투입하는 비용 감소", 경북일보, 2022년03월10일, 2022년03월31일 접속, [https://www.kyongbuk.co.kr/news/articleView.html?idxno=2096197](https://www.kyongbuk.co.kr/news/articleView.html?idxno=2096197)
+## 2. 주요 기능 🛠
 
-3 ”온라인 채용 역설…취준생 면접비 48만원, 2배로 뛰었다 왜”, 중앙일보, 2021년09월12일,2022년03월31일 접속,  ****[https://www.joongang.co.kr/article/25006380#home](https://www.joongang.co.kr/article/25006380#home)”
+|                                                   1. 화상 시스템                                                   |                                                    2. 메타버스                                                     |                                              3. 면접 예약 & 면접 관리                                              |                                            4. 자유도 높은 평가항목 및 면접 결과 추출                                            |
+| :----------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------------------: |
+| ![그림1](https://user-images.githubusercontent.com/54922827/170542576-7ed15cf7-edb8-4e73-a4ad-24e1e0b27c50.png) | ![그림2](https://user-images.githubusercontent.com/54922827/170542613-e755e490-8e98-412f-9ec0-56f2a8f6a5c1.png) | ![그림3](https://user-images.githubusercontent.com/54922827/170542643-111cd43c-9345-4465-bb9e-48626ce44114.png) |       ![그림4](https://user-images.githubusercontent.com/54922827/170542691-6e659203-69d9-4850-a792-c57a644dbd60.png)        |
+|   사용자 입장 </br> - 별도의 설치가 필요없는 화상 시스템 </br> 서비스 측면 </br> - SFU를 통한 Client 부하도 감소   |                                             - 웹에서 동작하는 메타버스                                             |            - 세세하고 체계적인 면접 예약 시스템 </br> - 간단한 업로드와 면접 중에도 확인 가능한 이력서             | - 커스터마이징 가능한 평가항목 시스템 </br> - 메타버스 시스템 내에서 확인 및 점수 입력 가능, 이 때 입력한 점수 결과는 추출 가능 |
 
-## 2. 주요 기능
+## 3. 기대 효과 📍
 
-![image](https://user-images.githubusercontent.com/54922827/160973387-bb7413f3-c82d-40a9-b995-63952f80ca95.png)
+<img width="818" alt="스크린샷 2022-05-27 오전 2 46 21" src="https://user-images.githubusercontent.com/54922827/170545677-e6485182-7b78-44e9-b145-6581c467062c.png">
 
-| 기능 | 세부 개발 사항 |
-| --- | --- |
-| 메타버스 시스템 | Gdevelop을 이용한 메타버스 시스템 |
-| 면접 시스템 | WebRTC와 SFU 방식을 이용한 면접 시스템 |
-| 웹 페이지 (FrontEnd) | React를 이용한 웹페이지 디자인 및 Frontend |
-| 서버 (WebRTC, API) | WebRTC 서버와 API 서버 |
+## 4. 프로젝트 구조 및 흐름 💻
 
-## 3. 소개영상
-[![Video Label](https://user-images.githubusercontent.com/55051191/161211391-36166336-14a2-494f-8696-ad3257c55244.png)](https://www.youtube.com/watch?v=1dYAA48PsrU)
+### KIWI 아키텍쳐
 
+<img width="762" alt="그림11" src="https://user-images.githubusercontent.com/54922827/170546081-bafa75c5-327b-4155-9b9b-96b15d3126c2.png">
 
+### 시스템 시나리오
 
+<img width="852" alt="그림12" src="https://user-images.githubusercontent.com/54922827/170546194-234e43ca-d9de-4ce3-8057-cf6e76b897cc.png">
 
-## 4. 팀소개
+## 5. 팀소개 🧚🏼‍♀️
 
-| 양진우 | 김찬미 | 백소현 |
-|:---:|:---:|:---:|
-|![image](https://user-images.githubusercontent.com/54922827/160975529-ff0177f2-dcaf-4806-8f25-a9babcafc867.jpeg) | ![image](https://user-images.githubusercontent.com/54922827/160975938-fc089245-419b-4ecf-86d4-81351c27a83d.jpeg) | ![image](https://user-images.githubusercontent.com/54922827/160975636-67b585e5-0edf-4dcb-a04f-17eef2c62d3a.jpeg) |
-| 🧑🏻‍💻 학번: xxxx1622 | 👩🏻‍💻 학번: xxxx1574 | 👩🏻‍💻 학번: xxxx1603 |
-| 📌 Role: 팀장, BackEnd, WebRTC, Server | 📌 Role: FrontEnd, Gdevelop, Design | 📌 Role: FrontEnd, Gdevelop, Design |
-| 💻 GitHub: @Pororo-droid | 💻 GitHub: @kimchanmiii | 💻 GitHub: @Baek-sohyeon |
+### GitHub 페이지
 
-## 5. 사용 및 실행법 
+- 최종 팀 페이지 주소 : https://github.com/kookmin-sw/capstone-2022-22
+- 개발 GitHub 주소 : [https://github.com/Captsone-Kiwi](https://github.com/Captsone-Kiwi)
 
-##API 서버 <br>
-##프로그램 요구사항
+|                                                      양진우                                                      |                                                      김찬미                                                      |                                                      백소현                                                      |
+| :--------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------: |
+| ![image](https://user-images.githubusercontent.com/54922827/160975529-ff0177f2-dcaf-4806-8f25-a9babcafc867.jpeg) | ![image](https://user-images.githubusercontent.com/54922827/160975938-fc089245-419b-4ecf-86d4-81351c27a83d.jpeg) | ![image](https://user-images.githubusercontent.com/54922827/160975636-67b585e5-0edf-4dcb-a04f-17eef2c62d3a.jpeg) |
+|                                                🧑🏻‍💻 학번: xxxx1622                                                 |                                                👩🏻‍💻 학번: xxxx1574                                                 |                                                👩🏻‍💻 학번: xxxx1603                                                 |
+|                                      📌 Role: 팀장, BackEnd, WebRTC, Server                                      |                                       📌 Role: FrontEnd, Gdevelop, Design                                        |                                       📌 Role: FrontEnd, Gdevelop, Design                                        |
+|                                             💻 GitHub: @Pororo-droid                                             |                                             💻 GitHub: @kimchanmiii                                              |                                             💻 GitHub: @Baek-sohyeon                                             |
 
-mysql<br>
-mvn
+## 5. 사용법 📒
 
-##사전 작업 (필수)<br>
-## 수정 파일
-API-Server/src/main/resources/application.properties<br>
-### mysql 주소 설정
-`spring.datasource.url=jdbc:mysql://[mySqlDatabseUrl]:[mySqlDatabasePort]/[DB_NAME]?sessionVariables=sql_mode='NO_ENGINE_SUBSTITUTION'&jdbcCompliantTruncation=false` <br>
-[mySqlDatabseUrl]  : mysql database url (local : localhost) <br>
-[mySqlDatabasePort] : mysql database port (default 3306) <br>
-[DB\_NAME] : DB name (없으면 create database [database name]) <br>
+### ✔️ 매뉴얼
 
-### mysql 유저 / 비밀번호 설정
-`spring.datasource.username=[DB_USERNAME]` <br>
-`spring.datasource.password=[DB_PASSWORD]` <br>
-[DB\_USERNAME] : DB Username (default : root) <br>
-[DB\_PASSWORD] : DB Password
+|                                                                            면접자 매뉴얼                                                                             |                                                                            면접관 매뉴얼                                                                             |
+| :------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+| [![Kiwi 면접자 매뉴얼](https://user-images.githubusercontent.com/54922827/170555079-e559a7d5-d6b3-4bdb-8f1b-586e4f4559d9.png)](https://www.miricanvas.com/v/1156md9) | [![Kiwi 면접관 매뉴얼](https://user-images.githubusercontent.com/54922827/170555327-afee46ae-de44-420a-9a71-1865d65025ce.png)](https://www.miricanvas.com/v/1156mr6) |
 
-### mysql table 자동생성 설정
-실행시 테이블 생성 -> 종료시 테이블 삭제 <br>
-`spring.jpa.hibernate.ddl-auto=create-drop` <br>
+## 6. 배포가이드
 
-실행시 테이블 생성 -> 종료시 테이블 유지 그러나 중복되면 삭제후 재생성<br>
-`spring.jpa.hibernate.ddl-auto=create`
-
-##수정 파일<br>
-API-Server/src/main/java/com.kiwi.ApiServer/DAO/SQLDAO.java<br>
-
-```java
-    private static final String URL = "JDBC:MYSQL://[mySqlDatabaseUrl]:[mySqlDatabasePort]/[DB_NAME]?useSSL=false&serverTimezone=Asia/Seoul";
-    private static final String USER = "[DB_USERNAME]";
-    private static final String PW = "[DB_PASSWORD]";
-
-```
-[mySqlDatabseUrl]  : mysql database url (local : localhost) <br>
-[mySqlDatabasePort] : mysql database port (default 3306) <br>
-[DB\_NAME] : DB name (없으면 create database [database name]) <br>
-[DB\_USERNAME] : DB Username (default : root) <br>
-[DB\_PASSWORD] : DB Password
-
-
-##MySQL 테이블 생성<br>
-
-```mysql
-CREATE TABLE interview_participant(
-    interview_id int,
-    player_id int
-);
-```
-
-##실행<br>
-`mvn spring-boot:run``
-
-
-## 6. 기타
-
-
-- 업로드 예정
+<a href="./docs/팀22-배포가이드.pdf"><strong>배포 가이드</strong></a>
