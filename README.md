@@ -6,6 +6,10 @@
 
 [![썸네일](https://user-images.githubusercontent.com/54922827/170538229-4bf5af69-96c4-40d5-81db-d50c6fcaf548.png)](https://www.youtube.com/watch?v=C13J8veVEpY&ab_channel=%E2%80%8D%EB%B0%B1%EC%86%8C%ED%98%84%28%ED%95%99%EB%B6%80%EC%83%9D-%EC%86%8C%ED%94%84%ED%8A%B8%EC%9B%A8%EC%96%B4%EC%A0%84%EA%B3%B5%29)
 
+### 최종 포스터 💚
+
+![팀22-포스터](https://user-images.githubusercontent.com/54922827/170565915-6de7db58-1b12-42d0-af99-e809acfcf573.png)
+
 ### 중간 소개 영상
 
 [![Video Label](https://user-images.githubusercontent.com/55051191/161211391-36166336-14a2-494f-8696-ad3257c55244.png)](https://www.youtube.com/watch?v=1dYAA48PsrU)
