@@ -1,0 +1,21 @@
+,,,,
+,,,,
+,,,,
+,메소드,요청주소,Description,개발현황
+,POST,/signin,유저 로그인,FINISH
+,POST,/signup,유저 회원가입,FINISH
+,POST,/createInterview,면접 생성,FINISH
+,GET,/getInterview,면접 목록 불러오기,FINISH
+,POST,/updateInterview?interviewId,면접 수정,FINISH
+,GET,/deleteInterview?id,면접 삭제,FINISH
+,GET,/participant?id,면접 참여자 목록,FINISH
+,POST,/createEvaluation,평가항목 템플릿 생성(미정),FINISH
+,GET,/getUsername,유저이름 가져오기,FINISH
+,GET,/getUser,유저 정보 가져오기,FINISH
+,POST,/insertResume,이력서 업로드,FINISH
+,GET,/getResume?name,이력서 불러오기,FINISH
+,POST,/createEvaluation,평가항목 생성,FINISH
+,GET,/getEvaluation?evaluationId,평가항목 불러오기,FINISH
+,POST,/createTest,시험문제 생성,
+,GET,/getTest,시험문제 불러오기,
+,POST,/,평가내용 업로드,
