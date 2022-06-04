@@ -4,6 +4,8 @@
 
 ### 최종 소개 영상 💚 (+시연 영상)
 
+> 개발 진행한 GitHub 주소 : [https://github.com/Captsone-Kiwi](https://github.com/Captsone-Kiwi)
+
 [![썸네일](https://user-images.githubusercontent.com/54922827/170538229-4bf5af69-96c4-40d5-81db-d50c6fcaf548.png)](https://www.youtube.com/watch?v=C13J8veVEpY&ab_channel=%E2%80%8D%EB%B0%B1%EC%86%8C%ED%98%84%28%ED%95%99%EB%B6%80%EC%83%9D-%EC%86%8C%ED%94%84%ED%8A%B8%EC%9B%A8%EC%96%B4%EC%A0%84%EA%B3%B5%29)
 
 ### 최종 포스터 💚
